@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1291" height="506.372" viewBox="0 0 1291 506.372">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.457" y1="-0.689" x2="0.5" y2="0.849" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#313131"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.026" y1="0.951" x2="0.967" y2="0.082" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.859"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="graphic" transform="translate(-629 -2483.628)">
+    <path id="패스_7041" data-name="패스 7041" d="M1282.943,7.082s-206.888,30.295-249.336,35.883S880.75,73.426,880.75,73.426s-222.421,72.4-254.763,87.769-183.05,73.753-241.261,97.5-70.549,38.126-70.549,38.126-68.257,57.04-112.128,88.967S0,496.785,0,496.785v15.241H1282.943Z" transform="translate(637.057 2477.708)" fill="url(#linear-gradient)"/>
+    <path id="패스_7040" data-name="패스 7040" d="M-8432.918-3882.806s158.177-81.188,202.049-112.118,113.964-89.483,113.964-89.483,9.7-14.215,67.913-37.227,208.185-83.927,240.525-98.816,257.1-89.341,257.1-89.341,108.336-22.334,150.783-27.749,250.62-40.714,250.62-40.714" transform="translate(9068.296 6861.882)" fill="none"/>
+    <rect id="사각형_1022" data-name="사각형 1022" width="341" height="234" transform="translate(629 2756)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

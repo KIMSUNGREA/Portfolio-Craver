@@ -1,0 +1,786 @@
+@media screen and (max-width: 1440px) { /* Mob 용 */
+    .pc { display: none !important;}
+
+    .cont1 .cont1_text img {
+        max-width: 900px;
+    }
+
+    .cont4 .animation_box .ani1, .cont4 .animation_box .ani2, .cont4 .animation_box .ani3 {
+        font-size: 130px;
+    }
+
+    .cont4 .animation_box .ani1 span::before {
+        top: -4px;
+        font-size: 16px;
+    }
+    .cont4 .animation_box .ani2 .aft::before {
+        top: -4px;
+        font-size: 16px;
+    }
+    .cont4 .animation_box .ani3 .work::before {
+        top: -4px;
+        font-size: 16px;
+    }
+
+    .cont4 .animation_box .ani1 img, .cont4 .animation_box .ani2 img, .cont4 .animation_box .ani3 img {
+        width: 210px;
+    }
+
+    footer .footer > span {
+        font-size: 70px;
+    }
+
+    /* sub_cont1 */
+    .cont1 .sub_text img {
+        width: 70%;
+    }
+
+    .cont1 .sub_text p {
+        font-size: 60px;
+    }
+
+    /* sub_page_2 */
+    .sub_page2 .sub_page2_wrap .itd .itd_box {
+        top: 100px;
+    }
+
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_bg {
+        height: 400px;
+    }
+
+    .growth_count .svg_line .svg {
+        width: 80%;
+    }
+    
+    .growth_count .svg_line .line {
+        width: 80%;
+    }
+
+    .sub_page2 .sub_page2_wrap .growth_count .count_box .ct_text span {
+        font-size: 50px;
+    }
+
+    .history_section .tit {
+        width: 45%;
+    }
+    .history_section .history_line {
+        width: 55%;
+    }
+} 
+
+@media screen and (min-width: 1439px) { /* PC용 */
+    .mob { display: none !important;}
+
+    .cont2 .text_box {
+        top: 50%;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    /* sub_page1 cont4 */
+    .sub_cont4 .sub_wrap .tit p {
+        font-weight: 900;
+        font-size: 70px;
+        padding-bottom: 30px;
+    }
+    .sub_cont4 .sub_wrap .tit p::after {
+        font-size: 70px;
+    }
+    
+    .sub_cont4 .sub_wrap .tit span {
+        font-size: 32px;
+        display: block;
+    }
+
+    .sub_cont4 .sub_wrap .tit {
+        padding-top: 200px;
+    }
+    
+    .sub_cont4 .sub_wrap .vision {
+        padding: 270px 0 100px 0;
+        margin: 0 auto;
+        max-width: 1200px;
+        width: 90%;
+    }
+    
+    .sub_cont4 .sub_wrap .vision .mis, .sub_cont4 .sub_wrap .vision .vis {
+        padding: 100px 0;
+    }
+    .sub_cont4 .sub_wrap .vision .vis {
+        border-bottom: 1px solid #707070;
+    }
+    .sub_cont4 .sub_wrap .vision h3 {
+        padding-left: 40px;
+        font-size: 50px;
+        font-weight: 900;
+    }
+    .sub_cont4 .sub_wrap .vision p {
+        padding-right: 40px;
+        font-size: 18px;
+    }
+
+    /* sub_cont1 */
+    .cont1 .sub_text img {
+        width: 60%;
+    }
+
+    .cont1 .sub_text p {
+        font-size: 40px;
+    }
+
+    /* sub_page_2 */
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_text::after {
+        opacity: .7;
+    }
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_text .eng {
+        font-size: 26px;
+    }
+
+    .history_section .history_line dl dt {
+        font-size: 24px;
+    }
+    .history_section .history_line dl dd {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    .cont1 .cont1_text img {
+        max-width: 700px;
+    }
+
+    .m_menu .m_menulist a {
+        font-size: 40px;
+    }
+
+    .cont2 .text_box {
+        font-size: 160px;
+    }
+
+    .cont2 .text_box .text1.trg {
+        left: 30%;
+    }
+    .cont2 .text_box .text2.trg {
+        left: 6%;
+    }
+    .cont2 .text_box .text3.trg {
+        left: 24%;
+    }
+
+    .cont3 .scr_text1 {
+        font-size: 60px;
+    }
+    .cont3 .scr_text2 {
+        font-size: 26px;
+    }
+
+    .cont4 .animation_box {
+        padding: 156px 0 100px 0;
+        height: auto;
+    }
+
+    .cont4 .animation_box .ani1, .cont4 .animation_box .ani2, .cont4 .animation_box .ani3 {
+        font-size: 120px;
+    }
+
+    .cont4 .animation_box .ani1 span::before {
+        top: -4px;
+        font-size: 16px;
+    }
+    .cont4 .animation_box .ani2 .aft::before {
+        top: -4px;
+        font-size: 16px;
+    }
+    .cont4 .animation_box .ani3 .work::before {
+        top: -4px;
+        font-size: 16px;
+    }
+
+    .cont4 .animation_box .ani1 img, .cont4 .animation_box .ani2 img, .cont4 .animation_box .ani3 img {
+        width: 200px;
+    }
+
+    footer {
+        width: 100%; height: auto;
+    }
+    
+    footer .footer {
+        padding-top: 116px;
+    }
+    
+    footer .footer .contact_box {
+        margin-top: 46px;
+    }
+
+    footer .footer > span {
+        font-size: 60px;
+    }
+
+    footer .footer .address {
+        padding-top: 102px;
+        padding-bottom: 46px;
+    }
+
+    /* sub_page1 */
+
+    .bs {
+        height:80px;
+        line-height: 80px;
+    } 
+    .bs li {
+        margin: 0 46px;
+    }
+    .bs li a {
+        display: block;
+        letter-spacing: 1px;
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .cont3 .scr_text1.sub2 {
+        font-size: 80px;
+    }
+    .cont3 .scr_text1 span {
+        padding-top: 20px;
+        font-size: 40px;
+    }
+    
+    .cont3 .scr_text2 span {
+        font-size: 20px;
+        padding-bottom: 30px;
+        display: block;
+        font-weight: 700;
+    }
+
+    /* sub_page1 cont4 */
+    .sub_cont4 .sub_wrap .tit p {
+        font-weight: 900;
+        font-size: 56px;
+        padding-bottom: 30px;
+    }
+    .sub_cont4 .sub_wrap .tit p::after {
+        font-size: 56px;
+    }
+    
+    .sub_cont4 .sub_wrap .tit span {
+        font-size: 26px;
+        display: block;
+    }
+
+    .sub_cont4 .sub_wrap .tit {
+        padding-top: 200px;
+    }
+    
+    .sub_cont4 .sub_wrap .vision {
+        padding: 220px 0 100px 0;
+    }
+    
+    .sub_cont4 .sub_wrap .vision .mis, .sub_cont4 .sub_wrap .vision .vis {
+        padding: 100px 0;
+    }
+    .sub_cont4 .sub_wrap .vision h3 {
+        padding-left: 40px;
+        font-size: 42px;
+        font-weight: 900;
+    }
+    .sub_cont4 .sub_wrap .vision p {
+        padding-right: 40px;
+        font-size: 16px;
+    }
+
+    .cont1 .sub_text img {
+        width: 50%;
+    }
+
+    .cont1 .sub_text p {
+        font-size: 30px;
+    }
+
+    footer .footer .address {
+        position: static;
+    }
+
+    /* sub_page_2 */
+    .sub_page2 .sub_page2_wrap .title h2 {
+        font-size: 50px;
+    }
+    
+    .sub_page2 .sub_page2_wrap .title p {
+        padding-top: 20px;
+        font-size: 18px;
+    }
+    
+    .sub_page2 .sub_page2_wrap .itd .itd_box h3 {
+        font-size: 28px;
+        padding-bottom: 20px;
+    }
+    .sub_page2 .sub_page2_wrap .itd .itd_box p {
+        font-size: 16px;
+    }
+    
+    .sub_page2 .sub_page2_wrap .itd .itd_box {
+        top: 80px;
+    }
+
+    .sub_page2 .sub_page2_wrap .title {
+        padding: 170px 0;
+    }
+
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_text .tit {
+        font-size: 26px;
+    }
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_text span {
+        font-size: 16px;
+    }
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_text .eng {
+        font-size: 2.2vw;
+    }
+
+    .sub_page2 .sub_page2_wrap .growth_count .tit h2 {
+        font-size: 50px;
+    }
+    
+    .sub_page2 .sub_page2_wrap .growth_count .tit p {
+        font-size: 20px;
+    }
+
+    .sub_page2 .sub_page2_wrap .growth_count .count_box li p:nth-of-type(1) {
+        font-size: 14px;
+    }
+    .sub_page2 .sub_page2_wrap .growth_count .count_box .ct_text span {
+        font-size: 36px;
+    }
+    .sub_page2 .sub_page2_wrap .growth_count .count_box .ct_text {
+        font-size: 18px;
+    }
+    
+    .history_section .tit h2 {
+        font-size: 50px;
+    }
+    .history_section .tit p {
+        padding-top: 20px;
+        font-size: 18px;
+    }
+
+    .history_section .tit {
+        width: 50%;
+    }
+    .history_section .history_line {
+        width: 50%;
+    }
+
+    .history_section .history_line dl dt {
+        width: 100px;
+    }
+
+    .section6 ul li { 
+        height: 300px;
+    }
+    .section6 ul li p:nth-of-type(2) {
+        font-size: 12px;
+        font-family: "GothamL";
+        font-weight: 600;
+        padding-bottom: 50px;
+        transition: all .3s;
+        opacity: 1;
+    }
+    
+    .section6 ul li > a {
+        line-height: 40px;
+        font-size: 12px;
+        font-weight: 600;
+        padding: 0 20px;
+        position: absolute;
+        opacity: 1;
+    }
+    .section6 ul li > a img {
+        margin-left: 16px;
+        vertical-align: middle;
+    }
+    .section6 ul li .img_box img {
+        filter: brightness(0.5);
+    }
+
+    .article_list ul li .article_text {
+        opacity: 1;
+    }
+    .article_list ul li a span {
+        font-size: 10px;
+    }
+    .article_list ul li a p {
+        font-size: 12px;
+    }
+    .article_list ul li a:nth-of-type(2) {
+        width: 30px;
+    }
+    .article_list ul li a:nth-of-type(2) img{
+        width: 100%; height: 100%;
+    }
+}
+
+@media screen and (max-width: 930px) {
+    .m_menu {
+        right: -100%;
+        width: 100%;
+    }
+
+    .m_menu .m_menulist a {
+        font-size: 50px;
+    }
+
+    .cont2 .text_box {
+        font-size: 140px;
+    }
+
+    .cont3 .scr_text1 {
+        font-size: 50px;
+    }
+    .cont3 .scr_text2 {
+        font-size: 16px;
+    }
+
+    .cont4 .animation_box .ani1, .cont4 .animation_box .ani2, .cont4 .animation_box .ani3 {
+        font-size: 100px;
+    }
+
+    .cont4 .animation_box .ani1 span::before {
+        top: -4px;
+        font-size: 16px;
+    }
+    .cont4 .animation_box .ani2 .aft::before {
+        top: -4px;
+        font-size: 16px;
+    }
+    .cont4 .animation_box .ani3 .work::before {
+        top: -4px;
+        font-size: 16px;
+    }
+
+    .cont4 .animation_box .ani1 img, .cont4 .animation_box .ani2 img, .cont4 .animation_box .ani3 img {
+        width: 190px;
+    }
+
+    footer .footer > span {
+        font-size: 50px;
+    }
+
+    /* sub_page2 */
+    .sub_page2 .list li a {
+        font-size: 18px;
+    }
+    
+    .history_section .tit {
+        padding-bottom: 120px;
+    }
+    .history_section .tit h2 {
+        font-size: 40px;
+    }
+    .history_section .tit p {
+        padding-top: 20px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .det { display: none;}
+
+    .cont1 .cont1_text img {
+        max-width: 500px;
+    }
+    .m_menu .m_menulist a {
+        font-size: 40px;
+    }
+    .cont2 .text_box {
+        font-size: 100px;
+    }
+
+    .cont2 .text_box .text1.trg {
+        left: 30%;
+    }      
+    .cont2 .text_box .text2.trg {
+        left: 6%;
+    }
+    .cont2 .text_box .text3.trg {
+        left: 24%;
+    }
+    
+    .cont3 .scr_text1 {
+        font-size: 40px;
+    }
+    .cont3 .scr_text2 {
+        font-size: 18px;
+    }
+
+    .cont4 .animation_box .ani1, .cont4 .animation_box .ani2, .cont4 .animation_box .ani3 {
+        font-size: 90px;
+    }
+
+    .cont4 .animation_box .ani1 img, .cont4 .animation_box .ani2 img, .cont4 .animation_box .ani3 img {
+        width: 180px;
+    }
+
+    /* sub_page1 */
+
+    .bs {
+        height:80px;
+        line-height: 80px;
+    } 
+    .bs li {
+        margin: 0 46px;
+    }
+    .bs li a {
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+    .cont3 .scr_text1.sub2 {
+        font-size: 70px;
+    }
+    .cont3 .scr_text1 span {
+        padding-top: 20px;
+        font-size: 30px;
+    }
+    
+    .cont3 .scr_text2 span {
+        font-size: 18px;
+        padding-bottom: 30px;
+        display: block;
+        font-weight: 700;
+    }
+
+    /* sub_page1 cont4 */
+    .sub_cont4 .sub_wrap .tit p {
+        font-weight: 900;
+        font-size: 40px;
+        padding-bottom: 30px;
+    }
+    .sub_cont4 .sub_wrap .tit p::after {
+        font-size: 40px;
+    }
+    
+    .sub_cont4 .sub_wrap .tit span {
+        font-size: 22px;
+        display: block;
+    }
+
+    .sub_cont4 .sub_wrap .tit {
+        padding-top: 120px;
+    }
+    
+    .sub_cont4 .sub_wrap .vision {
+        padding: 100px 0 100px 0;
+    }
+    
+    .sub_cont4 .sub_wrap .vision .mis, .sub_cont4 .sub_wrap .vision .vis {
+        padding: 100px 0;
+    }
+    .sub_cont4 .sub_wrap .vision h3 {
+        padding-left: 40px;
+        font-size: 36px;
+        font-weight: 900;
+    }
+    .sub_cont4 .sub_wrap .vision p {
+        padding-right: 40px;
+        font-size: 14px;
+    }
+
+    /* sub_page2 */
+    .sub_page2 .list li a {
+        font-size: 16px;
+    }
+    .sub_page2 .list li {
+        margin: 0 30px;
+    }
+
+    /* sub_page_2 */
+    .sub_page2 .sub_page2_wrap .title h2 {
+        font-size: 40px;
+    }
+    
+    .sub_page2 .sub_page2_wrap .title p {
+        padding-top: 20px;
+        font-size: 16px;
+    }
+    
+    .sub_page2 .sub_page2_wrap .itd .itd_box h3 {
+        font-size: 24px;
+        padding-bottom: 20px;
+    }
+    .sub_page2 .sub_page2_wrap .itd .itd_box p {
+        font-size: 14px;
+    }
+
+    .sub_page2 .sub_page2_wrap .itd .itd_box {
+        top: 60px;
+    }
+
+    .sub_page2 .sub_page2_wrap .title {
+        padding: 140px 0;
+    }
+
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_text .tit {
+        font-size: 22px;
+    }
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_text span {
+        font-size: 14px;
+    }
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_bg {
+        height: 300px;
+    }
+
+    .sub_page2 .sub_page2_wrap .growth_count .tit h2 {
+        font-size: 40px;
+    }
+    
+    .sub_page2 .sub_page2_wrap .growth_count .tit p {
+        font-size: 16px;
+    }
+
+    .sub_page2 .sub_page2_wrap .growth_count .count_box li p:nth-of-type(1) {
+        font-size: 13px;
+    }
+    .sub_page2 .sub_page2_wrap .growth_count .count_box .ct_text span {
+        font-size: 28px;
+    }
+    .sub_page2 .sub_page2_wrap .growth_count .count_box .ct_text {
+        font-size: 14px;
+    }
+
+    .history_section .his_wrap {
+        display: block;
+    }
+    .history_section .history_line {
+        width: 100%;
+    }
+    .history_section .history_line dl { 
+        padding-left: 60px;
+        margin-bottom: 40px;
+    }
+
+    .section6 ul li { 
+        width: 50%;
+        height: 300px;
+        padding: 30px;
+        border-bottom: 1px solid #fff;
+    }
+    .section6 ul li:nth-child(5) {
+        border-bottom: none;
+    }
+
+    .section6 ul li:nth-child(3n+0) {
+        border-right: 1px solid #fff;
+    }
+
+    .article_list ul li {
+        width: calc(100% / 5);
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .det, .tbl { display: none;}
+    .cont3 .layer_dimm { display: none;}
+    .cont1 .cont1_text img {
+        max-width: 380px;
+    }
+    .cont2 .text_box {
+        font-size: 70px;
+    }
+
+    .cont3 .scr_text1 {
+        font-size: 30px;
+    }
+    .cont3 .scr_text2 {
+        font-size: 16px;
+    }
+
+    .cont4 .animation_box .ani1, .cont4 .animation_box .ani2, .cont4 .animation_box .ani3 {
+        font-size: 60px;
+    }
+
+    .cont4 .animation_box .ani1 span::before {
+        top: -4px;
+        font-size: 16px;
+    }
+    .cont4 .animation_box .ani2 .aft::before {
+        top: -4px;
+        font-size: 16px;
+    }
+    .cont4 .animation_box .ani3 .work::before {
+        top: -4px;
+        font-size: 16px;
+    }
+
+    .cont4 .animation_box .ani1 img, .cont4 .animation_box .ani2 img, .cont4 .animation_box .ani3 img {
+        width: 170px;
+    }
+
+    footer .footer > span {
+        font-size: 40px;
+    }
+
+    /* sub_page1 */
+    .bs::after {
+        display: none;
+    } 
+    
+    .bs li {
+        margin: 0;
+        flex-grow: 1;
+    }
+
+    .cont3 .scr_text2 span {
+        font-size: 16px;
+    }
+
+    /* sub_page2 */
+    .sub_page2 .list li {
+        margin: 0;
+        flex-grow: 1;
+        flex-basis: 33.333%;
+        text-align: center;
+    }
+
+    .sub_page2 .sub_page2_wrap .title h2 {
+        font-size: 40px;
+    }
+    
+    .sub_page2 .sub_page2_wrap .title p {
+        padding-top: 20px;
+        font-size: 14px;
+    }
+    
+    .sub_page2 .sub_page2_wrap .itd .itd_box h3 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .sub_page2 .sub_page2_wrap .itd .itd_box p {
+        font-size: 12px;
+    }
+
+    .sub_page2 .sub_page2_wrap .itd .itd_box {
+        top: 60px;
+    }
+
+    .sub_page2 .sub_page2_wrap .title {
+        padding: 120px 0;
+    }
+
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_text .tit {
+        font-size: 18px;
+    }
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_text span {
+        font-size: 12px;
+    }
+    .sub_page2 .sub_page2_wrap .ifr li .ifr_bg {
+        height: 250px;
+    }
+
+    .sub_page2 .sub_page2_wrap .growth_count .tit p {
+        font-size: 14px;
+    }
+
+    .article_list ul li {
+        width: calc(100% / 3);
+    }
+}
